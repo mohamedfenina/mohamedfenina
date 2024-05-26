@@ -32,3 +32,7 @@
 ## 🏆 **Github Profile Trophy**
 
 ![Anurag's GitHub stats](https://github-profile-trophy.vercel.app/?username=mohamedfenina&theme=radical&row=1&column=10)
+
+##
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedfenina&" alt="mohamedfenina" /></p>
