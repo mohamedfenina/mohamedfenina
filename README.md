@@ -3,8 +3,8 @@
 <h3 align="center">A passionate Mobile developer</h3>
 <br></br>
 
-- 🔭 I’m currently working on **personal projects**
-- 🌱 I’m currently learning **Flutter**
+- 🔭 I’m currently working as a **freelancer**
+- 🌱 I’m currently learning **new skills and explore new technologies**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **mohamedfenina.inbox@gmail.com** or **feninamohmed@gmail.com**
