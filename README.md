@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **anything**
 - 📫 How to reach me: **mohamedfenina.inbox@gmail.com** or **feninamohmed@gmail.com**
+- 📄 Know about my experiences <a href="https://mohamedfenina.github.io/" target="_blank">**mohamedfenina.github.io**</a>
 
 
 <h3 align="left">Connect with me:</h3>
