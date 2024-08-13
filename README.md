@@ -21,7 +21,7 @@
 
 <h2>🚀 Some Tools I Use</h2>
 
-![My Skills](https://skillicons.dev/icons?i=dart,flutter,nodejs,expressjs,mongodb,js,ts,html,css,androidstudio,mysql,py,django,git,github,gitlab,stackoverflow,linux,vscode)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,dart,vscode,react,ts,js,expressjs,nodejs,html,css,mongodb,mysql,django,py,git,github,gitlab,stackoverflow)
 ## ⭐ **Top Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedfenina&theme=radical&layout=compact&hide=css)
