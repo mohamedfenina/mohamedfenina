@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/mohamedfenina/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-             badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/mohamed_fenina/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?     &style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/mohamedfenina/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/mohamed_fenina/?hl=fr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
 
